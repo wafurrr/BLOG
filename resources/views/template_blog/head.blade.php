@@ -21,7 +21,7 @@
 	<meta name="twitter:image" content="">
 	<meta name="twitter:card" content="">
 
-	<title>Callie HTML Template</title>
+	<title>C U Y</title>
 
 	<!-- Google font -->
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CMuli:400,700" rel="stylesheet">
@@ -105,8 +105,7 @@
 						</li>
 				
 						<li><a href="{{ route('blog.list') }}">List Post</a></li>
-						<li><a href="#">Health</a></li>
-						<li><a href="#">Travel</a></li>
+						
 					</ul>
 					<!-- /nav -->
 				</div>
@@ -128,7 +127,6 @@
 					</li>
 					<li><a href="about.html">About Us</a></li>
 					<li><a href="contact.html">Contacts</a></li>
-					<li><a href="#">Advertise</a></li>
 				</ul>
 				<button class="nav-close nav-aside-close"><span></span></button>
 			</div>
